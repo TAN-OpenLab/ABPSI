@@ -1,12 +1,12 @@
-# VUPSI
-VUPSI: Verifiable and Updatable Multi-party Delegated Private Set Intersection Protocol
+# MUPSI
+MUPSI: Malicious and Updatable Multi-party Delegated Private Set Intersection Protocol
 
 This project is based on Feather:  https://github.com/AydinAbadi/Feather/tree/master/Feather-implementation
 
-# How to run VUPSI?
+# How to run MUPSI?
 
-1. Download the above files, and put them in a folder "VUPSI".
-2. cd VUPSI
+1. Download the above files, and put them in a folder "MUPSI".
+2. cd MUPSI
 3. Install
   * GMP: https://gmplib.org/
   * Cryptopp: https://www.cryptopp.com
