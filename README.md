@@ -1,12 +1,12 @@
-# MUPSI
-MUPSI: Malicious and Updatable Multi-party Delegated Private Set Intersection Protocol
+# ABPSI
+ABPSI: A Multi-party Delegated Private Set Intersection Protocol based on Additive Secret Sharing and Bloom Filter
 
 This project is based on Feather:  https://github.com/AydinAbadi/Feather/tree/master/Feather-implementation
 
-# How to run MUPSI?
+# How to run ABPSI?
 
-1. Download the above files, and put them in a folder "MUPSI".
-2. cd MUPSI
+1. Download the above files, and put them in a folder "ABPSI".
+2. cd ABPSI
 3. Install
   * GMP: https://gmplib.org/
   * Cryptopp: https://www.cryptopp.com
